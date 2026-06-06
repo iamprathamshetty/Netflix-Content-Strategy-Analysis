@@ -96,4 +96,66 @@ This dataset reflects Netflix's catalog and not actual viewer watch-time, engage
 Therefore, conclusions describe content strategy rather than user behavior.
 
 ---
+# Visualizations
 
+## Content Growth
+
+![Content Growth](visuals/Content%20growth.png)
+
+Netflix experienced rapid growth between 2016 and 2019, peaking at over 2000 content additions in 2019.
+
+---
+
+## Movies vs TV Shows
+
+![Movies vs TV Shows](visuals/Movies%20vs%20TV%20shows.png)
+
+Movies significantly outnumber TV Shows on Netflix, indicating a strong emphasis on film acquisition and distribution.
+
+---
+
+## Audience Distribution
+
+![Audience Distribution](visuals/Audience%20Distribution.png)
+
+Teen and Adult audiences dominate Netflix's catalog, while Kids content represents a smaller segment.
+
+---
+
+## Audience Trends Over Time
+
+![Audience Trends](visuals/Audience%20Trends.png)
+
+Netflix maintained a strong focus on Teen and Adult audiences throughout its expansion period.
+
+---
+
+## India vs United States Content Growth
+
+![India vs US](visuals/India%20vs%20US%20content%20growth.png)
+
+India emerged as Netflix's largest non-US market, demonstrating Netflix's investment in high-growth international regions.
+
+---
+
+## Top Netflix Genres
+
+![Top Genres](visuals/Top%20Genres.png)
+
+International Movies and Dramas are among the most common categories in Netflix's catalog.
+
+---
+
+## India Genre Distribution
+
+![India Genres](visuals/India%20genre%20percentage.png)
+
+Indian content is heavily concentrated around Drama and Comedy genres.
+
+---
+
+## US Genre Distribution
+
+![US Genres](visuals/US%20genre%20percentage.png)
+
+US content demonstrates greater genre diversity, with stronger representation in documentaries, stand-up comedy, and family-oriented content.
